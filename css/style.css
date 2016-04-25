@@ -1,0 +1,38 @@
+a {
+    text-decoration: none;
+}
+
+
+#wrapper{
+    max-width:70%;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+#logo {
+    text-align: center;
+    margin: 0;
+}
+
+img {
+    width: 50%;
+}
+
+header{
+    background: #0D47A1;
+    border-color:blue;
+
+    
+}
+
+nav {
+    background: #1A237E;
+}
+
+h1, h3 {
+    color:white;
+}
+
+nav a, nav a:visited{
+    color:white;
+}

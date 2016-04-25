@@ -129,7 +129,7 @@ Footer
 ***************************/
 
 .wrap {
-	min-height: calc(100vh - 77px);
+	min-height: calc(100vh - 65px);
 }
 
 footer{
